@@ -11,7 +11,7 @@ Used Technologies:
 <ul>
 	<li><strong>Backend</strong>
 		<ul>
-			<li>Python (Django)</li>
+			<li>Python (GeoDjango)</li>
 		</ul>
 	</li>
 	<li><strong>Frontend</strong>
@@ -27,3 +27,4 @@ Used Technologies:
 	</li>
 </ul>
 				    
+All project dependencies can be found in <em>requirements.txt</em>
